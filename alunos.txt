@@ -1,0 +1,6 @@
+aluno; idade; curso
+luis; 21; sistinfo
+bianca; 20; sistinfo
+vinicius; 20; sistinfo
+cabraitz; 19; sistinfo
+
